@@ -5,3 +5,5 @@ JDBC(자바 API)를 통해 Eclipese와 MY SQL을 연동하여 병원업무 관�
 
 * UI - Swing
 * Backend - Java, My SQL
+
+추후 readme 수정 예정입니다..
